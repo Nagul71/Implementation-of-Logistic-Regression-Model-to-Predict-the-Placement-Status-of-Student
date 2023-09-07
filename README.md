@@ -88,31 +88,32 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 
 ## 5.Print Data
-![Screenshot 2023-09-07 081735](https://github.com/Nagul71/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118661118/f18a2b0a-6c6d-4a54-aace-f45b231a8361)
-
-
-## 6.Data Status
 ![Screenshot 2023-09-07 081742](https://github.com/Nagul71/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118661118/c0c9beef-d486-4fe4-b95c-dd0e7c5dffbd)
 
-
-## 7.y_prediction array
+## 6.Data Status
 ![Screenshot 2023-09-07 081749](https://github.com/Nagul71/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118661118/e3cf5223-73ca-442e-bbbc-51806b337c8f)
 
 
-## 8.Accuracy value
+
+
+## 7.y_prediction array
 ![Screenshot 2023-09-07 081757](https://github.com/Nagul71/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118661118/2c8f1a5e-f02b-453e-99b1-52bd5614d9a1)
 
-
-## 9.Confusion matrix
+## 8.Accuracy value
 ![Screenshot 2023-09-07 081802](https://github.com/Nagul71/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118661118/9c48a365-f927-478b-a892-e13dd9f75a23)
 
-
-## 10.Classification Report
+## 9.Confusion matrix
 ![Screenshot 2023-09-07 081806](https://github.com/Nagul71/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118661118/b6012349-05ea-4b0b-a71a-fe04e095fdcb)
 
 
-## 11.Prediction of LR
+
+
+## 10.Classification Report
 ![Screenshot 2023-09-07 081811](https://github.com/Nagul71/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118661118/e207d47e-b8f0-491c-8052-08f7aad243e0)
+
+
+## 11.Prediction of LR
+![Screenshot 2023-09-07 081816](https://github.com/Nagul71/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118661118/af74f0f3-2a3a-4790-8411-3e596f8ab9c9)
 
 
 
